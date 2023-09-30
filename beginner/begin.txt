@@ -1,0 +1,51 @@
+Create a script that displays "Hello, world!".
+Write a script that asks the user's name and displays a personalized greeting.
+Create a script that calculates the sum of two numbers entered by the user.
+Create a script that lists all files in a given directory.
+Write a script that renames all files in a directory by adding a prefix.
+Create a script that copies a file to a specified directory.
+Create a script that deletes all files with a specific extension in a given directory.
+Write a script that counts the number of lines in a file.
+Create a script that displays system information (kernel version, available memory, etc.).
+Create a script that generates a random password.
+Write a script that recursively renames all files and directories in a given directory.
+Create a script that calculates the total size of a directory.
+Create a script that displays files modified in the last 24 hours.
+Write a script that searches for a specific file in a directory tree.
+Create a script that converts text files to upper or lower case.
+Create a script that displays the calendar for the current month.
+Write a script that extracts email addresses from a text file.
+Create a script that saves a directory in a compressed archive.
+Create a script that displays the size of files in a directory sorted in ascending order.
+Write a script that renames files by replacing spaces with underscores.
+Create a script that renames files using sequential numbering.
+Create a script that displays running processes.
+Write a script that displays logged-in users.
+Create a script that checks whether a website is online.
+
+Create a script that checks whether an IP address is accessible.
+Write a script that calculates the execution time of a command.
+Write a script that sends an email to a specified address.
+Create a script that generates a report from data in a CSV file.
+Write a script that sorts the lines in a file alphabetically.
+Create a script that searches text files.
+Create a script that counts the number of files in a directory.
+Write a script that calculates the sum of the numbers contained in a file.
+Create a script that displays the most recently modified files in a directory.
+Create a script that displays empty folders in a directory.
+Write a script that checks whether a number is odd or even.
+Create a script that displays system environment variables.
+Create a script that generates a system user report.
+Write a script that sorts files in a directory by size.
+Write a script that renames files with a specified extension.
+Create a script that extracts the contents of a compressed archive.
+Write a script that deletes empty files in a directory.
+Create a script that converts text files into HTML format.
+Create a script that checks available disk space.
+Write a script to display hidden files in a directory.
+Write a script that displays executable files in a directory.
+Create a script that renames files with a creation date.
+Write a script that generates a report of logged-in users.
+Create a script that checks for the presence of a software package on the system.
+Create a script that monitors file modifications and sends a notification.
+Write a script that performs a recursive string search of files in a directory.
